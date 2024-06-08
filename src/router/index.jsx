@@ -9,7 +9,7 @@ import Login from "../pages/login/login";
 import Cars from "../pages/cars/cars";
 import SingleCar from "../pages/single-car/single-car";
 import Main from "../pages/main/main"
-import Brand from "../pages/brands/brand";
+import Brand from "../pages/posts/posts";
 import Albums from "../pages/albums/albums"
 import Comments from "../pages/comments/comments"
 import Todos from "../pages/todos/todos"
